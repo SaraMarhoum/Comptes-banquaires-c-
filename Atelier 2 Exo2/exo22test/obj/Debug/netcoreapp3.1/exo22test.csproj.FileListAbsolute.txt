@@ -1,0 +1,13 @@
+C:\Users\Youcode\source\repos\exo22test\exo22test\bin\Debug\netcoreapp3.1\exo22test.exe
+C:\Users\Youcode\source\repos\exo22test\exo22test\bin\Debug\netcoreapp3.1\exo22test.deps.json
+C:\Users\Youcode\source\repos\exo22test\exo22test\bin\Debug\netcoreapp3.1\exo22test.runtimeconfig.json
+C:\Users\Youcode\source\repos\exo22test\exo22test\bin\Debug\netcoreapp3.1\exo22test.runtimeconfig.dev.json
+C:\Users\Youcode\source\repos\exo22test\exo22test\bin\Debug\netcoreapp3.1\exo22test.dll
+C:\Users\Youcode\source\repos\exo22test\exo22test\bin\Debug\netcoreapp3.1\exo22test.pdb
+C:\Users\Youcode\source\repos\exo22test\exo22test\obj\Debug\netcoreapp3.1\exo22test.csprojAssemblyReference.cache
+C:\Users\Youcode\source\repos\exo22test\exo22test\obj\Debug\netcoreapp3.1\exo22test.AssemblyInfoInputs.cache
+C:\Users\Youcode\source\repos\exo22test\exo22test\obj\Debug\netcoreapp3.1\exo22test.AssemblyInfo.cs
+C:\Users\Youcode\source\repos\exo22test\exo22test\obj\Debug\netcoreapp3.1\exo22test.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\source\repos\exo22test\exo22test\obj\Debug\netcoreapp3.1\exo22test.dll
+C:\Users\Youcode\source\repos\exo22test\exo22test\obj\Debug\netcoreapp3.1\exo22test.pdb
+C:\Users\Youcode\source\repos\exo22test\exo22test\obj\Debug\netcoreapp3.1\exo22test.genruntimeconfig.cache
